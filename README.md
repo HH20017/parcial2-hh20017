@@ -1,7 +1,8 @@
 ````md
 ## Country Explorer - REST Countries API 
 
-Aplicación frontend desarrollada con React JS y Vite para consumir datos de la API pública REST Countries utilizando Axios.
+Aplicación frontend desarrollada con React JS y Vite para consumir datos de la
+API pública REST Countries utilizando Axios.
 
 ### Funcionalidades
 
@@ -40,9 +41,6 @@ Ejecutar proyecto:
 
 ```bash
 npm run dev
-```
-
-```
 ```
 Desarrollado por Katherine Tatiana Hernández Hernández 
 Carnet: HH20017
